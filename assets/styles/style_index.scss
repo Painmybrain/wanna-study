@@ -617,12 +617,12 @@ main{
     width: 40px;
     margin: 5px;
     cursor: pointer;
-    background-image: url(../images/feedback/Arrow-prewiev.svg);
+    background-image: url(assets/images/feedback/Arrow-prewiev.svg);
     transition:all .4s ease;
 }
 
 .bar_next {
-    background-image: url(../images/feedback/Arrow-next.svg);
+    background-image: url(assets/images/feedback/Arrow-next.svg);
 }  
 
 .bar:hover {

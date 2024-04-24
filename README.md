@@ -1,1 +1,1 @@
-# wanna-study
+# wanna_study
